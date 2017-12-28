@@ -1,0 +1,12 @@
+name: the_word_predction_app
+title: The Word Predction App
+username:
+account: adilmac
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 243195
+bundleId: 1111286
+url: https://adilmac.shinyapps.io/the_word_predction_app/
+when: 1512261407.50323
+asMultiple: FALSE
+asStatic: FALSE
